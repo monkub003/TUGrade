@@ -1,0 +1,48 @@
+@import url(./Navbar);
+
+.Profile-head {
+    margin: 30px;
+    text-align: center;
+}
+.Profile{
+    height: 150px;
+    display: flex;
+    justify-content: center;
+}
+.Profile-pic{
+    height: 100%;
+    width: 150px;
+    border: 2px solid;
+    border-radius: 100%;
+    object-fit: cover;
+}
+.Professor-info{
+    padding: 10px 10px;
+    text-align: center;
+}
+.Email, .Office-room, .Note {
+    width: 50%;
+    margin-left: 25%;
+    padding: 20px 20px;
+    display: flex;
+    margin-top: 30px;
+    border-radius: 15px;
+    background-color: #F0E2E2;
+    
+}
+.Office-room p,.Email p, .Note p{
+    /* width: 350px; */
+    font-size: 16px;
+}
+.fa-envelope, .fa-building {
+    margin-right: 10px;
+    margin-top: 2px;
+    display: inline;
+}
+
+.Contact-head {
+    position: center;
+    text-align: center;
+    padding: 50px;
+    color: #A43531;
+}

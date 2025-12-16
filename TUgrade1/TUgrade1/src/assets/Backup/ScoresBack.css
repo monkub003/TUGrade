@@ -1,0 +1,159 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "title";
+    scroll-behavior: smooth;
+    scroll-padding-top: 1rem;
+}
+
+body {
+    display:flexbox;
+    justify-content: center;
+    align-items: baseline;
+    min-height: 350vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background: linear-gradient(180deg, rgba(245, 245, 245, 1) 0%, rgba(251, 243, 243, 1) 50%);
+    
+
+}
+
+
+header{
+    position: sticky;
+    top: 0;
+    padding: 1.5rem 0; 
+    width: 100%;
+    margin:0px 0;
+    background-color: #F5F5F5;
+    box-shadow: 3px 0 10px #adadad;
+}
+
+
+.Tugrade-Logo {
+    margin: 30px 10px;
+    padding: 30px 90px;
+    /* border: 2px solid black; */
+    background-image: url("../assets/images/TUGrade_logo.png");
+    background-size: cover;
+}
+.line-head{
+    padding: 10px 20px;
+    border-left: 2px solid #A43531;
+    font-size: 100px;
+    color: #A43531;
+}
+.Menu{
+    position: absolute;
+    right: 10px;
+    padding: 0 10px;
+    color: black
+}
+.Menu li{
+    display: inline;
+    margin-right: 30px;
+    cursor: pointer;
+}
+
+
+p, .Tugrade-Logo,.line-head ,.Menu{
+    display: inline;
+    font-size: 20px;
+}
+
+.Course-info{
+    margin: 30px;
+    text-align: center;
+}
+
+.Course-info h1{
+    display: inline;
+}
+.Graph{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+}
+.Graph .graph-circle{
+    width: 200px;
+    height: 100%;
+    border-radius: 100%;
+    background-color: #A43531; 
+}
+table {
+    padding: 30px 30px;
+    width: 70%;
+    display: flex;
+    align-items: center;
+    border-collapse: collapse;
+    color : #000000;
+    border-collapse: collapse;
+    justify-content: center;
+    background-color: #fcf2f2;
+    border-radius: 40px;
+
+}
+.Scores-bac{
+    width: 60%;
+    height: 100%;
+    justify-content: center;
+    display: flex;
+}
+table td{
+    padding: 30px 20px;  
+    text-align: center;
+}
+.show-Grade{
+    width: 40%;
+    height: 100%;
+    justify-content: center;
+    text-align: center;
+    padding: 30px 30px;
+    background-color: #fcf2f2;
+    border-radius: 40px;
+}
+.show-Grade .get-grade{
+    font-size: 30px;
+    justify-content: center;
+    width: 100%;
+    height: 80%;
+    text-align: center;
+    align-items: center;
+    padding: 100px;
+}
+.Footer{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height:100px;
+    text-align: center;
+    align-items: center;
+}
+.Footer .review-Scores-btn {
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    color: #A43531;
+    cursor: pointer;
+    margin-right: 40px;
+    text-align: center;
+    font-size: 18px;
+}
+.Footer a{
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    color: #A43531;
+    cursor: pointer;
+    text-align: center;
+    margin-top: 15px;
+    font-size: 18px;
+}
+.Scores-all{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    height: 400px;
+}

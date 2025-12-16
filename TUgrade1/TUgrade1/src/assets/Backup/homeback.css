@@ -1,0 +1,280 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "title";
+    scroll-behavior: smooth;
+    scroll-padding-top: 1rem;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background: linear-gradient(180deg, rgba(245, 245, 245, 1) 0%, rgba(251, 243, 243, 1) 50%);
+    justify-content: center;
+    position: relative;
+
+}
+
+header{
+    display: flex;
+    position: sticky;
+    justify-content: flex-start;;
+    top: 0;
+    /* padding: 0 0;  */
+    width: 100%;
+    margin: 0px 0;
+    background-color: #F5F5F5;
+    box-shadow: 3px 0 10px #adadad;
+}
+
+.Tugrade-Logo {
+    /* width: 100px;
+    height: 10px; */
+    margin: 1px 20px;
+    padding: 10px 48px;
+    background-image: url("..//assets/images/TUGrade_logo.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    /* border: 1px solid black; */
+}
+
+.line-head{
+    padding: 10px 20px;
+    border-left: 2px solid #A43531;
+    font-size: 100px;
+    color: #A43531;
+}
+
+.Menubar {
+    /* display: flex; */
+    /* justify-content: space-between; */
+    align-items: center;
+    background-color: #F5F5F5;
+    /* padding:0 0; */
+}
+
+.Menubar .Menu{
+    width: 100%;
+    list-style: none;
+    display: flex;
+    /* position: absolute; */
+    justify-content: flex-end;
+    align-items: center;
+    /* right: 10px; */
+    /* padding: 0 10px; */
+    /* color: black */
+}
+
+.Menubar li{
+    height: 63px;
+    display: inline;
+    /* margin-right: 30px; */
+    cursor: pointer;
+}
+
+.Menubar .Menu a{
+    display: flex;
+    height: 100%;
+    padding: 0 30px;
+    text-decoration: none;
+    align-items: center;
+    color: #000000;
+    transition: 0.2s;
+}
+
+.Menubar .Menu a:hover{
+    width: 100%;
+    background-color: #F8B93E;
+    color: white;
+}
+
+.Sidebar{
+    position: fixed;
+    font-size: 20px;
+    top: 0;
+    right: 0;
+    height: 100vh;
+    width: 250px;
+    z-index: 999;
+    background-color: white;
+    box-shadow: -10px 0 10px rgba(0, 0, 0, 0.1);
+    display: none;
+    flex-direction: column;
+    align-items:  center;
+    justify-content: flex-start;
+    /* padding: 0 30px; */
+}
+
+.Sidebar a{
+    display: flex;
+    height: 100%;
+    width: 100%;
+    padding:0 1rem;
+    /* padding-left: 5px; */
+    text-decoration: none;
+    color: #000000;
+    transition: 0.2s;
+    align-items: center;
+    text-align: center;
+    /* justify-items: center; */
+}
+
+
+.Sidebar a:hover{
+    width: 150%;
+    background-color: #F8B93E;
+    color: white;
+}
+
+.Sidebar li{
+    width: 100%;
+    /* height: 50px; */
+    align-items: center;
+    /* justify-items: center; */
+    box-sizing: border-box;
+}
+
+.Hamburger-btn {
+    display: none !important;
+  }
+
+p, .Tugrade-Logo,.line-head ,.Menu{
+    display: inline;
+    align-items: left;
+    text-align: left;
+    justify-content: inline-block;
+    font-size: 20px;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    /* justify-content: space-between; */
+    padding: 10px 20px;
+}
+
+/* header nav{
+    display: flex;
+    justify-content: inline-block;
+    align-items: center; 
+    text-align: left; 
+    background-color: #F5F5F5; 
+    padding: 0px 0px;
+} */
+.Info-student{
+    display: flex;
+    padding: 5px 10px;
+}
+.Profile-icon, .Profile-info{
+    margin: 0 10px 0 0;
+    padding-top: 10px;
+    color: #A43531
+}
+.Profile-icon{
+    font-size: 50px;
+    padding-top:8px;
+}
+.Search-bar {
+    width: 350px;
+    border: none;
+    border-radius: 50px;
+    display: flex;
+    background-color: white;
+    margin-left: auto;
+    /* justify-items: flex-end; */
+}
+.Search-bar .bx-search {
+    font-size: 20px;
+    width: 20px;
+    height: 35px;
+    margin: 10px 10px;
+    padding-right: 10px ;
+    border: none;
+    background: none;
+    background-color: white;
+    cursor: pointer;
+}
+.Search-bar input{
+    border: none;
+    outline: none;
+    font-size: 18px;
+    margin-left: 30px;
+    width: 250px;
+    
+}
+.Filter i{
+    display: flex;
+    font-size: 30px;
+    color: black;
+    cursor: pointer;
+    padding-left: 10px;
+    justify-items: flex-end;
+}
+table{
+    padding: 10px 10px;
+    display: flex;
+    align-items: center;
+    border-collapse: collapse;
+    color : #000000;
+}
+table td{
+    padding: 30px 0;
+    margin: 20px;   
+    text-align: center;
+}
+table td{
+    border-bottom: 2px solid rgb(0, 0, 0);
+}
+table .no{
+    width: 100px;
+}
+table .Course-code{
+    width: 150px;
+}
+table .Course-name{
+    width: 300px;
+}
+table .Professor{
+    width : 300px;
+}
+table .Section{
+    width: 150px;
+}
+table .Grade{
+    width: 150px;
+    font-weight: 700;
+    font-size: 18px;
+}
+table .Attachments{
+    width: 250px;
+}
+table .Attachments .Attachments-file {
+    padding: 7px;
+    width: 130px;
+    background-color: #F8B93E;
+    border-radius: 70px;
+    cursor: pointer;
+    color: white;
+    box-shadow: 4px 4px 2px #adadad;
+    border: 2px solid transparent;
+    transition: border 0.2s ease;
+}
+table .Attachments .Attachments-file:hover{
+    color:#000000;
+    background-color: #ffffff;
+    border-color:#F8B93E;
+}
+
+@media (max-width: 900px) {
+    .Hamburger-btn {
+      display: flex !important;
+    }
+}
+
+

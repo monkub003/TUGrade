@@ -1,0 +1,2317 @@
+[{
+  "_id": {
+    "$oid": "66e5bfbe900d2cf9db2710bc"
+  },
+  "name": "MA111",
+  "score_data": {
+    "midterm": 40,
+    "final": 50,
+    "others": 10
+  },
+  "grade_data": {
+    "A": 80,
+    "B_plus": 75,
+    "B": 70,
+    "C_plus": 65,
+    "C": 60,
+    "D_plus": 55,
+    "D": 50,
+    "F": 40
+  },
+  "students_score": [
+    {
+      "student_id": "6712345678",
+      "midterm_score": 18,
+      "final_score": 36,
+      "others": 6,
+      "kumrong": ""
+    },
+    {
+      "student_id": "6521211074",
+      "midterm_score": 29,
+      "final_score": 8,
+      "others": 2,
+      "kumrong": ""
+    },
+    {
+      "student_id": "6614237428",
+      "midterm_score": 25,
+      "final_score": 29,
+      "others": 2,
+      "kumrong": ""
+    },
+    {
+      "student_id": "6460791172",
+      "midterm_score": 30,
+      "final_score": 40,
+      "others": 10,
+      "kumrong": ""
+    },
+    {
+      "student_id": "6790140987",
+      "midterm_score": 26,
+      "final_score": 34,
+      "others": 9,
+      "kumrong": ""
+    }
+  ],
+  "teacher_id": 1,
+  "Section": "760001",
+  "Semester": "1/2567",
+  "credit": 3,
+  "full_name": "แคลคูลัสพื้นฐาน"
+},
+{
+  "_id": {
+    "$oid": "66e5c30b900d2cf9db2710bd"
+  },
+  "name": "MA111",
+  "teacher_id": 2,
+  "score_data": {
+    "midterm": 40,
+    "final": 50,
+    "others": 10
+  },
+  "grade_data": {
+    "A": 80,
+    "B_plus": 75,
+    "B": 70,
+    "C_plus": 65,
+    "C": 60,
+    "D_plus": 55,
+    "D": 50,
+    "F": 40
+  },
+  "students_score": [
+    {
+      "student_id": "6719876543",
+      "midterm_score": 26,
+      "final_score": 7,
+      "others": 5,
+      "kumrong": ""
+    },
+    {
+      "student_id": "6787654321",
+      "midterm_score": 35,
+      "final_score": 50,
+      "others": 10,
+      "kumrong": ""
+    },
+    {
+      "student_id": "6687654321",
+      "midterm_score": 14,
+      "final_score": 40,
+      "others": 10,
+      "kumrong": ""
+    }
+  ],
+  "Section": "750001",
+  "Semester": "1/2567",
+  "credit": 3,
+  "full_name": "แคลคูลัสพื้นฐาน"
+},
+{
+  "_id": {
+    "$oid": "66e5c588900d2cf9db2710bf"
+  },
+  "name": "MA111",
+  "teacher_id": 3,
+  "score_data": {
+    "midterm": 40,
+    "final": 50,
+    "others": 10
+  },
+  "grade_data": {
+    "A": 80,
+    "B_plus": 75,
+    "B": 70,
+    "C_plus": 65,
+    "C": 60,
+    "D_plus": 55,
+    "D": 50,
+    "F": 40
+  },
+  "students_score": [
+    {
+      "student_id": "6478901234",
+      "midterm_score": 38,
+      "final_score": 7,
+      "others": 1,
+      "kumrong": ""
+    },
+    {
+      "student_id": "6590123456",
+      "midterm_score": 17,
+      "final_score": 22,
+      "others": 10,
+      "kumrong": ""
+    },
+    {
+      "student_id": "6712340987",
+      "midterm_score": 24,
+      "final_score": 18,
+      "others": 7,
+      "kumrong": ""
+    },
+    {
+      "student_id": "6723456789",
+      "midterm_score": 2,
+      "final_score": 15,
+      "others": 0,
+      "kumrong": ""
+    },
+    {
+      "student_id": "6612345678",
+      "midterm_score": 14,
+      "final_score": 31,
+      "others": 1,
+      "kumrong": ""
+    },
+    {
+      "student_id": "6689012345",
+      "midterm_score": 38,
+      "final_score": 14,
+      "others": 8,
+      "kumrong": ""
+    }
+  ],
+  "Section": "740001",
+  "Semester": "1/2567",
+  "credit": 3,
+  "full_name": "แคลคูลัสพื้นฐาน"
+},
+{
+  "_id": {
+    "$oid": "66e5c7a4900d2cf9db2710c0"
+  },
+  "name": "SF221",
+  "teacher_id": 1,
+  "score_data": {
+    "midterm": 30,
+    "final": 30,
+    "others": 40
+  },
+  "grade_data": {
+    "A": 80,
+    "B_plus": 77,
+    "B": 75,
+    "C_plus": 70,
+    "C": 65,
+    "D_plus": 60,
+    "D": 55,
+    "F": 50
+  },
+  "students_score": [
+    {
+      "student_id": "6615551112",
+      "midterm_score": 24,
+      "final_score": 12,
+      "others": 25,
+      "kumrong": "2024/11/25"
+    },
+    {
+      "student_id": "6614237428",
+      "midterm_score": 26,
+      "final_score": 26,
+      "others": 34,
+      "kumrong": ""
+    },
+    {
+      "student_id": "6607533863",
+      "midterm_score": 30,
+      "final_score": 18,
+      "others": 32,
+      "kumrong": ""
+    }
+  ],
+  "Section": "760001",
+  "Semester": "1/2567",
+  "credit": 3,
+  "full_name": "กระบวนการทางซอฟต์แวร์"
+},
+{
+  "_id": {
+    "$oid": "66e5c8d1900d2cf9db2710c1"
+  },
+  "name": "IE121",
+  "teacher_id": 2,
+  "score_data": {
+    "midterm": 40,
+    "final": 50,
+    "others": 10
+  },
+  "grade_data": {
+    "A": 80,
+    "B_plus": 75,
+    "B": 70,
+    "C_plus": 65,
+    "C": 60,
+    "D_plus": 55,
+    "D": 50,
+    "F": 40
+  },
+  "students_score": [
+    {
+      "student_id": "6712340987",
+      "midterm_score": 18,
+      "final_score": 48,
+      "others": 4,
+      "kumrong": ""
+    },
+    {
+      "student_id": "6723456789",
+      "midterm_score": 30,
+      "final_score": 36,
+      "others": 5,
+      "kumrong": ""
+    },
+    {
+      "student_id": "6689012345",
+      "midterm_score": 34,
+      "final_score": 49,
+      "others": 3,
+      "kumrong": ""
+    }
+  ],
+  "Section": "740001",
+  "Semester": "1/2567",
+  "credit": 3,
+  "full_name": "วัสดุวิศวกรรม"
+},
+{
+  "_id": {
+    "$oid": "66e5c9d6900d2cf9db2710c2"
+  },
+  "name": "SC123",
+  "teacher_id": 3,
+  "score_data": {
+    "midterm": 40,
+    "final": 50,
+    "others": 10
+  },
+  "grade_data": {
+    "A": 80,
+    "B_plus": 75,
+    "B": 70,
+    "C_plus": 65,
+    "C": 60,
+    "D_plus": 55,
+    "D": 50,
+    "F": 40
+  },
+  "students_score": [
+    {
+      "student_id": "6712340987",
+      "midterm_score": 37,
+      "final_score": 8,
+      "others": 9,
+      "kumrong": ""
+    },
+    {
+      "student_id": "6712445678",
+      "midterm_score": 30,
+      "final_score": 33,
+      "others": 5,
+      "kumrong": ""
+    }
+  ],
+  "Section": "740001",
+  "Semester": "1/2567",
+  "credit": 3,
+  "full_name": "เคมีพื้นฐาน"
+},
+{
+  "_id": {
+    "$oid": "66e5cb0e900d2cf9db2710c3"
+  },
+  "name": "CN210",
+  "teacher_id": 1,
+  "score_data": {
+    "midterm": 35,
+    "final": 45,
+    "others": 20
+  },
+  "grade_data": {
+    "A": 80,
+    "B_plus": 75,
+    "B": 70,
+    "C_plus": 65,
+    "C": 60,
+    "D_plus": 55,
+    "D": 50,
+    "F": 40
+  },
+  "students_score": [
+    {
+      "student_id": "6615551112",
+      "midterm_score": 2,
+      "final_score": 6,
+      "others": 13,
+      "kumrong": "2024/11/24"
+    },
+    {
+      "student_id": "6614237428",
+      "midterm_score": 29,
+      "final_score": 33,
+      "others": 18,
+      "kumrong": ""
+    },
+    {
+      "student_id": "6460791172",
+      "midterm_score": 32,
+      "final_score": 12,
+      "others": 9,
+      "kumrong": ""
+    },
+    {
+      "student_id": "6607533863",
+      "midterm_score": 27,
+      "final_score": 5,
+      "others": 7,
+      "kumrong": ""
+    }
+  ],
+  "Section": "760001",
+  "Semester": "1/2567",
+  "credit": 3,
+  "full_name": "สถาปัตยกรรมคอมพิวเตอร์"
+},
+{
+  "_id": {
+    "$oid": "66e5cfe2900d2cf9db2710c4"
+  },
+  "name": "SC123",
+  "teacher_id": 2,
+  "score_data": {
+    "midterm": 35,
+    "final": 45,
+    "others": 20
+  },
+  "grade_data": {
+    "A": 80,
+    "B_plus": 75,
+    "B": 70,
+    "C_plus": 65,
+    "C": 60,
+    "D_plus": 55,
+    "D": 50,
+    "F": 40
+  },
+  "students_score": [
+    {
+      "student_id": "6719876543",
+      "midterm_score": 21,
+      "final_score": 21,
+      "others": 11,
+      "kumrong": ""
+    },
+    {
+      "student_id": "6798765432",
+      "midterm_score": 34,
+      "final_score": 12,
+      "others": 18,
+      "kumrong": ""
+    }
+  ],
+  "Section": "750001",
+  "Semester": "1/2567",
+  "credit": 3,
+  "full_name": "เคมีพื้นฐาน"
+},
+{
+  "_id": {
+    "$oid": "66e5d141900d2cf9db2710c5"
+  },
+  "name": "SC173",
+  "teacher_id": 3,
+  "score_data": {
+    "midterm": 35,
+    "final": 45,
+    "others": 20
+  },
+  "grade_data": {
+    "A": 80,
+    "B_plus": 75,
+    "B": 70,
+    "C_plus": 65,
+    "C": 60,
+    "D_plus": 55,
+    "D": 50,
+    "F": 40
+  },
+  "students_score": [
+    {
+      "student_id": "6719876543",
+      "midterm_score": 16,
+      "final_score": 41,
+      "others": 20,
+      "kumrong": ""
+    },
+    {
+      "student_id": "6798765432",
+      "midterm_score": 28,
+      "final_score": 18,
+      "others": 20,
+      "kumrong": ""
+    },
+    {
+      "student_id": "6787654321",
+      "midterm_score": 33,
+      "final_score": 1,
+      "others": 9,
+      "kumrong": ""
+    }
+  ],
+  "Section": "750001",
+  "Semester": "1/2567",
+  "credit": 1,
+  "full_name": "ปฏิบัติการเคมีพื้นฐาน"
+},
+{
+  "_id": {
+    "$oid": "66e5d234900d2cf9db2710c6"
+  },
+  "name": "SF212",
+  "teacher_id": 6,
+  "score_data": {
+    "midterm": 35,
+    "final": 45,
+    "others": 20
+  },
+  "grade_data": {
+    "A": 80,
+    "B_plus": 75,
+    "B": 70,
+    "C_plus": 65,
+    "C": 60,
+    "D_plus": 55,
+    "D": 50,
+    "F": 40
+  },
+  "students_score": [
+    {
+      "student_id": "6615551112",
+      "midterm_score": 13,
+      "final_score": 16,
+      "others": 9,
+      "kumrong": "2024/11/24"
+    },
+    {
+      "student_id": "6607533863",
+      "midterm_score": 1,
+      "final_score": 39,
+      "others": 7,
+      "kumrong": ""
+    }
+  ],
+  "Section": "760001",
+  "Semester": "1/2568",
+  "credit": 1,
+  "full_name": "ปฏิบัติการพัฒนาการเขียนโปรแกรมคอมพิวเตอร์ 2"
+},
+{
+  "_id": {
+    "$oid": "66e5d31a900d2cf9db2710c7"
+  },
+  "name": "SC173",
+  "teacher_id": 4,
+  "score_data": {
+    "midterm": 35,
+    "final": 45,
+    "others": 20
+  },
+  "grade_data": {
+    "A": 80,
+    "B_plus": 75,
+    "B": 70,
+    "C_plus": 65,
+    "C": 60,
+    "D_plus": 55,
+    "D": 50,
+    "F": 40
+  },
+  "students_score": [
+    {
+      "student_id": "6712340987",
+      "midterm_score": 21,
+      "final_score": 26,
+      "others": 6,
+      "kumrong": ""
+    },
+    {
+      "student_id": "6712445678",
+      "midterm_score": 29,
+      "final_score": 16,
+      "others": 17,
+      "kumrong": ""
+    }
+  ],
+  "Section": "740001",
+  "Semester": "1/2567",
+  "credit": 1,
+  "full_name": "ปฏิบัติการเคมีพื้นฐาน"
+},
+{
+  "_id": {
+    "$oid": "66e5d536900d2cf9db2710c8"
+  },
+  "name": "SC133",
+  "teacher_id": 3,
+  "score_data": {
+    "midterm": 35,
+    "final": 45,
+    "others": 20
+  },
+  "grade_data": {
+    "A": 80,
+    "B_plus": 75,
+    "B": 70,
+    "C_plus": 65,
+    "C": 60,
+    "D_plus": 55,
+    "D": 50,
+    "F": 40
+  },
+  "students_score": [
+    {
+      "student_id": "6719876543",
+      "midterm_score": 14,
+      "final_score": 39,
+      "others": 14,
+      "kumrong": ""
+    },
+    {
+      "student_id": "6798765432",
+      "midterm_score": 4,
+      "final_score": 16,
+      "others": 18,
+      "kumrong": ""
+    },
+    {
+      "student_id": "6787654321",
+      "midterm_score": 4,
+      "final_score": 5,
+      "others": 11,
+      "kumrong": ""
+    }
+  ],
+  "Section": "750001",
+  "Semester": "1/2567",
+  "credit": 3,
+  "full_name": "ฟิสิกส์สำหรับวิศวกร 1 "
+},
+{
+  "_id": {
+    "$oid": "66e5d5e8900d2cf9db2710c9"
+  },
+  "name": "SF211",
+  "teacher_id": 4,
+  "score_data": {
+    "midterm": 35,
+    "final": 45,
+    "others": 20
+  },
+  "grade_data": {
+    "A": 80,
+    "B_plus": 75,
+    "B": 70,
+    "C_plus": 65,
+    "C": 60,
+    "D_plus": 55,
+    "D": 50,
+    "F": 40
+  },
+  "students_score": [
+    {
+      "student_id": "6615551112",
+      "midterm_score": 8,
+      "final_score": 32,
+      "others": 20,
+      "kumrong": ""
+    },
+    {
+      "student_id": "6607533863",
+      "midterm_score": 10,
+      "final_score": 1,
+      "others": 3,
+      "kumrong": ""
+    }
+  ],
+  "Section": "760001",
+  "Semester": "1/2568",
+  "credit": 3,
+  "full_name": "การโปรแกรมเชิงวัตถุ"
+},
+{
+  "_id": {
+    "$oid": "66e5de87900d2cf9db2710ca"
+  },
+  "name": "SC133",
+  "teacher_id": 2,
+  "score_data": {
+    "midterm": 35,
+    "final": 45,
+    "others": 20
+  },
+  "grade_data": {
+    "A": 80,
+    "B_plus": 75,
+    "B": 70,
+    "C_plus": 65,
+    "C": 60,
+    "D_plus": 55,
+    "D": 50,
+    "F": 40
+  },
+  "students_score": [
+    {
+      "student_id": "6712340987",
+      "midterm_score": 35,
+      "final_score": 26,
+      "others": 7,
+      "kumrong": ""
+    },
+    {
+      "student_id": "6712445678",
+      "midterm_score": 26,
+      "final_score": 12,
+      "others": 0,
+      "kumrong": ""
+    },
+    {
+      "student_id": "6723456789",
+      "midterm_score": 19,
+      "final_score": 4,
+      "others": 12,
+      "kumrong": ""
+    }
+  ],
+  "Section": "740001",
+  "Semester": "1/2567",
+  "credit": 3,
+  "full_name": "ฟิสิกส์สำหรับวิศวกร 1"
+},
+{
+  "_id": {
+    "$oid": "66e5df81900d2cf9db2710cb"
+  },
+  "name": "ME100",
+  "teacher_id": 3,
+  "score_data": {
+    "midterm": 35,
+    "final": 45,
+    "others": 20
+  },
+  "grade_data": {
+    "A": 80,
+    "B_plus": 75,
+    "B": 70,
+    "C_plus": 65,
+    "C": 60,
+    "D_plus": 55,
+    "D": 50,
+    "F": 40
+  },
+  "students_score": [
+    {
+      "student_id": "6719876543",
+      "midterm_score": 21,
+      "final_score": 30,
+      "others": 19,
+      "kumrong": ""
+    },
+    {
+      "student_id": "6798765432",
+      "midterm_score": 10,
+      "final_score": 34,
+      "others": 12,
+      "kumrong": ""
+    },
+    {
+      "student_id": "6787654321",
+      "midterm_score": 24,
+      "final_score": 26,
+      "others": 16,
+      "kumrong": ""
+    }
+  ],
+  "Section": "750001",
+  "Semester": "1/2567",
+  "credit": 3,
+  "full_name": "กราฟิกวิศวกรรม"
+},
+{
+  "_id": {
+    "$oid": "66e5dff8900d2cf9db2710cc"
+  },
+  "name": "CN204",
+  "teacher_id": 2,
+  "score_data": {
+    "midterm": 35,
+    "final": 45,
+    "others": 20
+  },
+  "grade_data": {
+    "A": 80,
+    "B_plus": 75,
+    "B": 70,
+    "C_plus": 65,
+    "C": 60,
+    "D_plus": 55,
+    "D": 50,
+    "F": 40
+  },
+  "students_score": [
+    {
+      "student_id": "6615551112",
+      "midterm_score": 22,
+      "final_score": 9,
+      "others": 18,
+      "kumrong": ""
+    }
+  ],
+  "Section": "760001",
+  "Semester": "1/2567",
+  "credit": 3,
+  "full_name": "ทฤษฎีความน่าจะเป็นและกระบวนการสุ่มสำหรับวิศวกรคอมพิวเตอร์"
+},
+{
+  "_id": {
+    "$oid": "66e5e0dd900d2cf9db2710cd"
+  },
+  "name": "EI201",
+  "teacher_id": 2,
+  "score_data": {
+    "midterm": 35,
+    "final": 45,
+    "others": 20
+  },
+  "grade_data": {
+    "A": 80,
+    "B_plus": 75,
+    "B": 70,
+    "C_plus": 65,
+    "C": 60,
+    "D_plus": 55,
+    "D": 50,
+    "F": 40
+  },
+  "students_score": [
+    {
+      "student_id": "6612345678",
+      "midterm_score": 32,
+      "final_score": 11,
+      "others": 18,
+      "kumrong": ""
+    },
+    {
+      "student_id": "6623456789",
+      "midterm_score": 14,
+      "final_score": 19,
+      "others": 1,
+      "kumrong": ""
+    },
+    {
+      "student_id": "6689012345",
+      "midterm_score": 31,
+      "final_score": 14,
+      "others": 1,
+      "kumrong": ""
+    },
+    {
+      "student_id": "6478901234",
+      "midterm_score": 15,
+      "final_score": 19,
+      "others": 10,
+      "kumrong": ""
+    }
+  ],
+  "Section": "740001",
+  "Semester": "1/2567",
+  "credit": 3,
+  "full_name": "การออกแบบวงจรดิจิตอลและไมโครคอนโทรลเลอร์"
+},
+{
+  "_id": {
+    "$oid": "66e5e187900d2cf9db2710ce"
+  },
+  "name": "MA214",
+  "teacher_id": 3,
+  "score_data": {
+    "midterm": 35,
+    "final": 45,
+    "others": 20
+  },
+  "grade_data": {
+    "A": 80,
+    "B_plus": 75,
+    "B": 70,
+    "C_plus": 65,
+    "C": 60,
+    "D_plus": 55,
+    "D": 50,
+    "F": 40
+  },
+  "students_score": [
+    {
+      "student_id": "6620987654",
+      "midterm_score": 33,
+      "final_score": 14,
+      "others": 18,
+      "kumrong": ""
+    },
+    {
+      "student_id": "6654321098",
+      "midterm_score": 15,
+      "final_score": 23,
+      "others": 10,
+      "kumrong": ""
+    },
+    {
+      "student_id": "6443210987",
+      "midterm_score": 32,
+      "final_score": 24,
+      "others": 15,
+      "kumrong": ""
+    }
+  ],
+  "Section": "740001",
+  "Semester": "1/2567",
+  "credit": 3,
+  "full_name": "สมการเชิงอนุพันธ์"
+},
+{
+  "_id": {
+    "$oid": "66e5e83b900d2cf9db2710cf"
+  },
+  "name": "SC135",
+  "teacher_id": 4,
+  "score_data": {
+    "midterm": 30,
+    "final": 60,
+    "others": 10
+  },
+  "grade_data": {
+    "A": 90,
+    "B_plus": 75,
+    "B": 70,
+    "C_plus": 65,
+    "C": 60,
+    "D_plus": 55,
+    "D": 50,
+    "F": 40
+  },
+  "students_score": [
+    {
+      "student_score": "6712345678",
+      "midterm_score": 21,
+      "final_score": 44,
+      "others": 7,
+      "kumrong": ""
+    },
+    {
+      "student_score": "6707850936",
+      "midterm_score": 2,
+      "final_score": 23,
+      "others": 8,
+      "kumrong": ""
+    },
+    {
+      "student_score": "6521211074",
+      "midterm_score": 11,
+      "final_score": 20,
+      "others": 2,
+      "kumrong": ""
+    },
+    {
+      "student_score": "6607533863",
+      "midterm_score": 15,
+      "final_score": 27,
+      "others": 4,
+      "kumrong": ""
+    },
+    {
+      "student_score": "6790140987",
+      "midterm_score": 16,
+      "final_score": 27,
+      "others": 3,
+      "kumrong": ""
+    }
+  ],
+  "Section": "760001",
+  "Semester": "1/2567",
+  "credit": 3,
+  "full_name": "ฟิสิกส์ทั่วไป"
+},
+{
+  "_id": {
+    "$oid": "66e5ea04900d2cf9db2710d0"
+  },
+  "name": "EI211",
+  "teacher_id": 5,
+  "score_data": {
+    "midterm": 30,
+    "final": 60,
+    "others": 10
+  },
+  "grade_data": {
+    "A": 90,
+    "B_plus": 75,
+    "B": 70,
+    "C_plus": 65,
+    "C": 60,
+    "D_plus": 55,
+    "D": 50,
+    "F": 40
+  },
+  "students_score": [
+    {
+      "student_id": "6612345678",
+      "midterm_score": 4,
+      "final_score": 23,
+      "others": 0,
+      "kumrong": ""
+    },
+    {
+      "student_id": "6623456789",
+      "midterm_score": 27,
+      "final_score": 50,
+      "others": 0,
+      "kumrong": ""
+    },
+    {
+      "student_id": "6689012345",
+      "midterm_score": 21,
+      "final_score": 33,
+      "others": 8,
+      "kumrong": ""
+    },
+    {
+      "student_id": "6478901234",
+      "midterm_score": 24,
+      "final_score": 51,
+      "others": 7,
+      "kumrong": ""
+    }
+  ],
+  "Semester": "1/2567",
+  "credit": 3,
+  "Section": "740001",
+  "full_name": "การคำนวณงานทางวิศวกรรมบนคอมพิวเตอร์"
+},
+{
+  "_id": {
+    "$oid": "66e5eb0e900d2cf9db2710d1"
+  },
+  "name": "CE211",
+  "teacher_id": 6,
+  "score_data": {
+    "midterm": 30,
+    "final": 60,
+    "others": 10
+  },
+  "grade_data": {
+    "A": 90,
+    "B_plus": 75,
+    "B": 70,
+    "C_plus": 65,
+    "C": 60,
+    "D_plus": 55,
+    "D": 50,
+    "F": 40
+  },
+  "students_score": [
+    {
+      "student_id": "6620987654",
+      "midterm_score": 18,
+      "final_score": 1,
+      "others": 0,
+      "kumrong": ""
+    },
+    {
+      "student_id": "6687654321",
+      "midterm_score": 27,
+      "final_score": 1,
+      "others": 2,
+      "kumrong": ""
+    },
+    {
+      "student_id": "6654321098",
+      "midterm_score": 30,
+      "final_score": 52,
+      "others": 10,
+      "kumrong": ""
+    }
+  ],
+  "Section": "740001",
+  "Semester": "1/2567",
+  "credit": 2,
+  "full_name": "การคำนวณงานทางวิศวกรรมบนคอมพิวเตอร์"
+},
+{
+  "_id": {
+    "$oid": "66e5ebd6900d2cf9db2710d2"
+  },
+  "name": "CN101",
+  "teacher_id": 4,
+  "score_data": {
+    "midterm": 30,
+    "final": 60,
+    "others": 10
+  },
+  "grade_data": {
+    "A": 90,
+    "B_plus": 75,
+    "B": 70,
+    "C_plus": 65,
+    "C": 60,
+    "D_plus": 55,
+    "D": 50,
+    "F": 40
+  },
+  "students_score": [
+    {
+      "student_id": "6712345678",
+      "midterm_score": 27,
+      "final_score": 59,
+      "others": 10,
+      "kumrong": ""
+    },
+    {
+      "student_id": "6707850936",
+      "midterm_score": 2,
+      "final_score": 26,
+      "others": 1,
+      "kumrong": ""
+    },
+    {
+      "student_id": "6614237428",
+      "midterm_score": 30,
+      "final_score": 60,
+      "others": 3,
+      "kumrong": ""
+    }
+  ],
+  "Section": "760001",
+  "Semester": "1/2567",
+  "credit": 3,
+  "full_name": "การเขียนโปรแกรมคอมพิวเตอร์เบื้องต้น"
+},
+{
+  "_id": {
+    "$oid": "66e5eccf900d2cf9db2710d3"
+  },
+  "name": "EI240",
+  "teacher_id": 8,
+  "score_data": {
+    "midterm": 30,
+    "final": 60,
+    "others": 10
+  },
+  "grade_data": {
+    "A": 90,
+    "B_plus": 75,
+    "B": 70,
+    "C_plus": 65,
+    "C": 60,
+    "D_plus": 55,
+    "D": 50,
+    "F": 40
+  },
+  "students_score": [
+    {
+      "student_id": "6612345678",
+      "midterm_score": 21,
+      "final_score": 36,
+      "others": 0,
+      "kumrong": ""
+    },
+    {
+      "student_id": "6623456789",
+      "midterm_score": 4,
+      "final_score": 52,
+      "others": 9,
+      "kumrong": ""
+    }
+  ],
+  "Section": "740001",
+  "Semester": "1/2567",
+  "credit": 3,
+  "full_name": "การวิเคราะห์วงจรไฟฟ้าและการแปลงพลังงานกลไฟฟ้า"
+},
+{
+  "_id": {
+    "$oid": "66e5ed7b900d2cf9db2710d4"
+  },
+  "name": "CE212",
+  "teacher_id": 4,
+  "score_data": {
+    "midterm": 30,
+    "final": 60,
+    "others": 10
+  },
+  "grade_data": {
+    "A": 90,
+    "B_plus": 75,
+    "B": 70,
+    "C_plus": 65,
+    "C": 60,
+    "D_plus": 55,
+    "D": 50,
+    "F": 40
+  },
+  "students_score": [
+    {
+      "student_id": "6620987654",
+      "midterm_score": 22,
+      "final_score": 12,
+      "others": 1,
+      "kumrong": ""
+    },
+    {
+      "student_id": "6687654321",
+      "midterm_score": 29,
+      "final_score": 49,
+      "others": 0,
+      "kumrong": ""
+    }
+  ],
+  "Section": "750001",
+  "Semester": "1/2567",
+  "credit": 1,
+  "full_name": "ปฏิบัติการการสำรวจ"
+},
+{
+  "_id": {
+    "$oid": "66e5ee00900d2cf9db2710d5"
+  },
+  "name": "SF330",
+  "teacher_id": 1,
+  "score_data": {
+    "midterm": 30,
+    "final": 60,
+    "others": 10
+  },
+  "grade_data": {
+    "A": 90,
+    "B_plus": 75,
+    "B": 70,
+    "C_plus": 65,
+    "C": 60,
+    "D_plus": 55,
+    "D": 50,
+    "F": 40
+  },
+  "students_score": [
+    {
+      "student_id": "6543210987",
+      "midterm_score": 2,
+      "final_score": 10,
+      "others": 1,
+      "kumrong": ""
+    }
+  ],
+  "Section": "760001",
+  "Semester": "1/2567",
+  "credit": 3,
+  "full_name": "การกำหนดความต้องการทางซอฟต์แวร์"
+},
+{
+  "_id": {
+    "$oid": "66e5ee94900d2cf9db2710d6"
+  },
+  "name": "IE261",
+  "teacher_id": 8,
+  "score_data": {
+    "midterm": 30,
+    "final": 60,
+    "others": 10
+  },
+  "grade_data": {
+    "A": 90,
+    "B_plus": 75,
+    "B": 70,
+    "C_plus": 65,
+    "C": 60,
+    "D_plus": 55,
+    "D": 50,
+    "F": 40
+  },
+  "students_score": [
+    {
+      "student_id": "6612345678",
+      "midterm_score": 25,
+      "final_score": 43,
+      "others": 0,
+      "kumrong": ""
+    },
+    {
+      "student_id": "6623456789",
+      "midterm_score": 22,
+      "final_score": 16,
+      "others": 1,
+      "kumrong": ""
+    }
+  ],
+  "Section": "750001",
+  "Semester": "1/2567",
+  "credit": 3,
+  "full_name": "สถิติวิศวกรรม"
+},
+{
+  "_id": {
+    "$oid": "66e5eef7900d2cf9db2710d7"
+  },
+  "name": "CE221",
+  "teacher_id": 5,
+  "score_data": {
+    "midterm": 30,
+    "final": 60,
+    "others": 10
+  },
+  "grade_data": {
+    "A": 90,
+    "B_plus": 75,
+    "B": 70,
+    "C_plus": 65,
+    "C": 60,
+    "D_plus": 55,
+    "D": 50,
+    "F": 40
+  },
+  "students_score": [
+    {
+      "student_id": "6620987654",
+      "midterm_score": 1,
+      "final_score": 32,
+      "others": 9,
+      "kumrong": ""
+    }
+  ],
+  "Section": "750001",
+  "Semester": "1/2567",
+  "credit": 3,
+  "full_name": "กลศาสตร์ของแข็ง1"
+},
+{
+  "_id": {
+    "$oid": "66e5ef61900d2cf9db2710d8"
+  },
+  "name": "SF331",
+  "teacher_id": 1,
+  "score_data": {
+    "midterm": 30,
+    "final": 60,
+    "others": 10
+  },
+  "grade_data": {
+    "A": 90,
+    "B_plus": 75,
+    "B": 70,
+    "C_plus": 65,
+    "C": 60,
+    "D_plus": 55,
+    "D": 50,
+    "F": 40
+  },
+  "students_score": [
+    {
+      "student_id": "6543210987",
+      "midterm_score": 29,
+      "final_score": 54,
+      "others": 10,
+      "kumrong": ""
+    }
+  ],
+  "Section": "760001",
+  "Semester": "1/2567",
+  "credit": 3,
+  "full_name": "สถาปัตยกรรมและการออกแบบซอฟต์แวร์"
+},
+{
+  "_id": {
+    "$oid": "66e5efc1900d2cf9db2710d9"
+  },
+  "name": "LE363",
+  "teacher_id": 5,
+  "score_data": {
+    "midterm": 30,
+    "final": 60,
+    "others": 10
+  },
+  "grade_data": {
+    "A": 90,
+    "B_plus": 75,
+    "B": 70,
+    "C_plus": 65,
+    "C": 60,
+    "D_plus": 55,
+    "D": 50,
+    "F": 40
+  },
+  "students_score": [
+    {
+      "student_id": "6512340987",
+      "midterm_score": 3,
+      "final_score": 10,
+      "others": 9,
+      "kumrong": ""
+    }
+  ],
+  "Section": "740001",
+  "Semester": "1/2567",
+  "credit": 3,
+  "full_name": "เครื่องจักรกลไฟฟ้า 2"
+},
+{
+  "_id": {
+    "$oid": "66e5f071900d2cf9db2710da"
+  },
+  "name": "CE231",
+  "teacher_id": 5,
+  "score_data": {
+    "midterm": 30,
+    "final": 60,
+    "others": 10
+  },
+  "grade_data": {
+    "A": 90,
+    "B_plus": 75,
+    "B": 70,
+    "C_plus": 65,
+    "C": 60,
+    "D_plus": 55,
+    "D": 50,
+    "F": 40
+  },
+  "students_score": [
+    {
+      "student_id": "6620987654",
+      "midterm_score": 11,
+      "final_score": 4,
+      "others": 4,
+      "kumrong": ""
+    },
+    {
+      "student_id": "6687654321",
+      "midterm_score": 25,
+      "final_score": 25,
+      "others": 2,
+      "kumrong": ""
+    },
+    {
+      "student_id": "6654321098",
+      "midterm_score": 2,
+      "final_score": 14,
+      "others": 6,
+      "kumrong": ""
+    }
+  ],
+  "Section": "750001",
+  "Semester": "1/2567",
+  "credit": 3,
+  "full_name": "คอนกรีตและวัสดุก่อสร้าง"
+},
+{
+  "_id": {
+    "$oid": "66e5f0fa900d2cf9db2710db"
+  },
+  "name": "SF341",
+  "teacher_id": 4,
+  "score_data": {
+    "midterm": 30,
+    "final": 60,
+    "others": 10
+  },
+  "grade_data": {
+    "A": 90,
+    "B_plus": 75,
+    "B": 70,
+    "C_plus": 65,
+    "C": 60,
+    "D_plus": 55,
+    "D": 50,
+    "F": 40
+  },
+  "students_score": [
+    {
+      "student_id": "6543210987",
+      "midterm_score": 22,
+      "final_score": 59,
+      "others": 3,
+      "kumrong": ""
+    },
+    {
+      "student_id": "6460791172",
+      "midterm_score": 19,
+      "final_score": 22,
+      "others": 3,
+      "kumrong": ""
+    }
+  ],
+  "Section": "760001",
+  "Semester": "1/2567",
+  "credit": 3,
+  "full_name": "การสร้างซอฟต์แวร์ 1"
+},
+{
+  "_id": {
+    "$oid": "66e5f1b9900d2cf9db2710dc"
+  },
+  "name": "LE340",
+  "teacher_id": 5,
+  "score_data": {
+    "midterm": 30,
+    "final": 60,
+    "others": 10
+  },
+  "grade_data": {
+    "A": 90,
+    "B_plus": 75,
+    "B": 70,
+    "C_plus": 65,
+    "C": 60,
+    "D_plus": 55,
+    "D": 50,
+    "F": 40
+  },
+  "students_score": [
+    {
+      "student_id": "6512340987",
+      "midterm_score": 8,
+      "final_score": 40,
+      "others": 3,
+      "kumrong": ""
+    },
+    {
+      "student_id": "6590123456",
+      "midterm_score": 17,
+      "final_score": 55,
+      "others": 6,
+      "kumrong": ""
+    }
+  ],
+  "Section": "740001",
+  "Semester": "1/2567",
+  "credit": 3,
+  "full_name": "วงจรอิเล็กทรอนิกส์"
+},
+{
+  "_id": {
+    "$oid": "66e5f2cb900d2cf9db2710dd"
+  },
+  "name": "CE232",
+  "teacher_id": 6,
+  "score_data": {
+    "midterm": 30,
+    "final": 60,
+    "others": 10
+  },
+  "grade_data": {
+    "A": 90,
+    "B_plus": 75,
+    "B": 70,
+    "C_plus": 65,
+    "C": 60,
+    "D_plus": 55,
+    "D": 50,
+    "F": 40
+  },
+  "students_score": [
+    {
+      "student_id": "6620987654",
+      "midterm_score": 13,
+      "final_score": 19,
+      "others": 4,
+      "kumrong": ""
+    },
+    {
+      "student_id": "6654321098",
+      "midterm_score": 17,
+      "final_score": 45,
+      "others": 4,
+      "kumrong": ""
+    }
+  ],
+  "Section": "750001",
+  "Semester": "1/2567",
+  "credit": 1,
+  "full_name": "ปฏิบัติการทดสอบวัสดุก่อสร้าง"
+},
+{
+  "_id": {
+    "$oid": "66e5f358900d2cf9db2710de"
+  },
+  "name": "CN230",
+  "teacher_id": 1,
+  "score_data": {
+    "midterm": 30,
+    "final": 60,
+    "others": 10
+  },
+  "grade_data": {
+    "A": 90,
+    "B_plus": 75,
+    "B": 70,
+    "C_plus": 65,
+    "C": 60,
+    "D_plus": 55,
+    "D": 50,
+    "F": 40
+  },
+  "students_score": [
+    {
+      "student_id": "6543210987",
+      "midterm_score": 19,
+      "final_score": 60,
+      "others": 6,
+      "kumrong": ""
+    },
+    {
+      "student_id": "6521211074",
+      "midterm_score": 18,
+      "final_score": 28,
+      "others": 10,
+      "kumrong": ""
+    }
+  ],
+  "Section": "760001",
+  "Semester": "1/2567",
+  "credit": 3,
+  "full_name": "ระบบฐานข้อมูล"
+},
+{
+  "_id": {
+    "$oid": "66e5f3fe900d2cf9db2710df"
+  },
+  "name": "LE360",
+  "teacher_id": 8,
+  "score_data": {
+    "midterm": 30,
+    "final": 60,
+    "others": 10
+  },
+  "grade_data": {
+    "A": 90,
+    "B_plus": 75,
+    "B": 70,
+    "C_plus": 65,
+    "C": 60,
+    "D_plus": 55,
+    "D": 50,
+    "F": 40
+  },
+  "students_score": [
+    {
+      "student_id": "6512340987",
+      "midterm_score": 6,
+      "final_score": 16,
+      "others": 0,
+      "kumrong": ""
+    },
+    {
+      "student_id": "6590123456",
+      "midterm_score": 6,
+      "final_score": 11,
+      "others": 8,
+      "kumrong": ""
+    }
+  ],
+  "Section": "740001",
+  "Semester": "1/2567",
+  "credit": 3,
+  "full_name": "ระบบไฟฟ้ากำลัง"
+},
+{
+  "_id": {
+    "$oid": "66e5f45e900d2cf9db2710e0"
+  },
+  "name": "CE321",
+  "teacher_id": 9,
+  "score_data": {
+    "midterm": 30,
+    "final": 60,
+    "others": 10
+  },
+  "grade_data": {
+    "A": 90,
+    "B_plus": 75,
+    "B": 70,
+    "C_plus": 65,
+    "C": 60,
+    "D_plus": 55,
+    "D": 50,
+    "F": 40
+  },
+  "students_score": [
+    {
+      "student_id": "6532109876",
+      "midterm_score": 25,
+      "final_score": 31,
+      "others": 7,
+      "kumrong": ""
+    }
+  ],
+  "Section": "750001",
+  "Semester": "1/2567",
+  "credit": 3,
+  "full_name": "การวิเคราะห์โครงสร้าง 2"
+},
+{
+  "_id": {
+    "$oid": "66e5f51b900d2cf9db2710e1"
+  },
+  "name": "SF410",
+  "teacher_id": 4,
+  "score_data": {
+    "midterm": 30,
+    "final": 60,
+    "others": 10
+  },
+  "grade_data": {
+    "A": 90,
+    "B_plus": 75,
+    "B": 70,
+    "C_plus": 65,
+    "C": 60,
+    "D_plus": 55,
+    "D": 50,
+    "F": 40
+  },
+  "students_score": [
+    {
+      "student_id": "6434455667",
+      "midterm_score": 8,
+      "final_score": 24,
+      "others": 5,
+      "kumrong": ""
+    },
+    {
+      "student_id": "6460791172",
+      "midterm_score": 28,
+      "final_score": 31,
+      "others": 4,
+      "kumrong": ""
+    }
+  ],
+  "Section": "760001",
+  "Semester": "1/2567",
+  "credit": 3,
+  "full_name": "จริยธรรมและความเป็นวิชาชีพด้านวิศวกรรมซอฟต์แวร์"
+},
+{
+  "_id": {
+    "$oid": "66e5f57f900d2cf9db2710e2"
+  },
+  "name": "LE380",
+  "teacher_id": 5,
+  "score_data": {
+    "midterm": 30,
+    "final": 60,
+    "others": 10
+  },
+  "grade_data": {
+    "A": 90,
+    "B_plus": 75,
+    "B": 70,
+    "C_plus": 65,
+    "C": 60,
+    "D_plus": 55,
+    "D": 50,
+    "F": 40
+  },
+  "students_score": [
+    {
+      "students_id": "6512340987",
+      "midterm_score": 24,
+      "final_score": 24,
+      "others": 2,
+      "kumrong": ""
+    }
+  ],
+  "Section": "740001",
+  "Semester": "1/2567",
+  "credit": 3,
+  "full_name": "เครื่องมือวัดและการวัดทางไฟฟ้า"
+},
+{
+  "_id": {
+    "$oid": "66e5f5d9900d2cf9db2710e3"
+  },
+  "name": "CE331",
+  "teacher_id": 9,
+  "score_data": {
+    "midterm": 30,
+    "final": 60,
+    "others": 10
+  },
+  "grade_data": {
+    "A": 90,
+    "B_plus": 75,
+    "B": 70,
+    "C_plus": 65,
+    "C": 60,
+    "D_plus": 55,
+    "D": 50,
+    "F": 40
+  },
+  "students_score": [
+    {
+      "student_id": "6532109876",
+      "midterm_score": 20,
+      "final_score": 38,
+      "others": 1,
+      "kumrong": ""
+    }
+  ],
+  "Section": "750001",
+  "Semester": "1/2567",
+  "credit": 4,
+  "full_name": "การออกแบบโครงสร้างคอนกรีตเสริมเหล็ก"
+},
+{
+  "_id": {
+    "$oid": "66e5fd94900d2cf9db2710e4"
+  },
+  "name": "SF404",
+  "teacher_id": 7,
+  "score_data": {
+    "midterm": 35,
+    "final": 55,
+    "others": 10
+  },
+  "grade_data": {
+    "A": 85,
+    "B_plus": 75,
+    "B": 70,
+    "C_plus": 65,
+    "C": 60,
+    "D_plus": 55,
+    "D": 50,
+    "F": 40
+  },
+  "students_score": [
+    {
+      "student_id": "6434455667",
+      "midterm_score": 2,
+      "final_score": 51,
+      "others": 9,
+      "kumrong": ""
+    }
+  ],
+  "Section": "760001",
+  "Semester": "1/2567",
+  "credit": 3,
+  "full_name": "โครงงานทางวิศวกรรมซอฟต์แวร์ 1"
+},
+{
+  "_id": {
+    "$oid": "66e5fe68900d2cf9db2710e5"
+  },
+  "name": "IE302",
+  "teacher_id": 7,
+  "score_data": {
+    "midterm": 35,
+    "final": 55,
+    "others": 10
+  },
+  "grade_data": {
+    "A": 85,
+    "B_plus": 75,
+    "B": 70,
+    "C_plus": 65,
+    "C": 60,
+    "D_plus": 55,
+    "D": 50,
+    "F": 40
+  },
+  "students_score": [
+    {
+      "student_id": "6512340987",
+      "midterm_score": 2,
+      "final_score": 41,
+      "others": 3,
+      "kumrong": ""
+    },
+    {
+      "student_id": "6590123456",
+      "midterm_score": 30,
+      "final_score": 9,
+      "others": 0,
+      "kumrong": ""
+    },
+    {
+      "student_id": "6478901234",
+      "midterm_score": 24,
+      "final_score": 14,
+      "others": 9,
+      "kumrong": ""
+    }
+  ],
+  "Section": "740001",
+  "Semester": "1/2567",
+  "credit": 3,
+  "full_name": "เศรษฐศาสตร์วิศวกรรม"
+},
+{
+  "_id": {
+    "$oid": "66e5fec7900d2cf9db2710e6"
+  },
+  "name": "CE371",
+  "teacher_id": 8,
+  "score_data": {
+    "midterm": 35,
+    "final": 55,
+    "others": 10
+  },
+  "grade_data": {
+    "A": 85,
+    "B_plus": 75,
+    "B": 70,
+    "C_plus": 65,
+    "C": 60,
+    "D_plus": 55,
+    "D": 50,
+    "F": 40
+  },
+  "students_score": [
+    {
+      "students_id": "6532109876",
+      "midterm_score": 14,
+      "final_score": 15,
+      "others": 3,
+      "kumrong": ""
+    }
+  ],
+  "Section": "750001",
+  "Semester": "1/2567",
+  "credit": 3,
+  "full_name": "อุทกวิศวกรรม"
+},
+{
+  "_id": {
+    "$oid": "66e5ff1b900d2cf9db2710e7"
+  },
+  "name": "SF406",
+  "teacher_id": 9,
+  "score_data": {
+    "midterm": 35,
+    "final": 55,
+    "others": 10
+  },
+  "grade_data": {
+    "A": 85,
+    "B_plus": 75,
+    "B": 70,
+    "C_plus": 65,
+    "C": 60,
+    "D_plus": 55,
+    "D": 50,
+    "F": 40
+  },
+  "students_score": [
+    {
+      "student_id": "6434455667",
+      "midterm_score": 22,
+      "final_score": 41,
+      "others": 0,
+      "kumrong": ""
+    }
+  ],
+  "Section": "760001",
+  "Semester": "1/2567",
+  "credit": 1,
+  "full_name": "การเตรียมการฝึกงานในวิชาชีพด้านวิศวกรรมซอฟต์แวร์ระยะยาว"
+},
+{
+  "_id": {
+    "$oid": "66e5ffba900d2cf9db2710e8"
+  },
+  "name": "IE312",
+  "teacher_id": 6,
+  "score_data": {
+    "midterm": 35,
+    "final": 55,
+    "others": 10
+  },
+  "grade_data": {
+    "A": 85,
+    "B_plus": 75,
+    "B": 70,
+    "C_plus": 65,
+    "C": 60,
+    "D_plus": 55,
+    "D": 50,
+    "F": 40
+  },
+  "students_score": [
+    {
+      "student_id": "6512340987",
+      "midterm_score": 12,
+      "final_score": 53,
+      "others": 2,
+      "kumrong": ""
+    },
+    {
+      "student_id": "6590123456",
+      "midterm_score": 27,
+      "final_score": 7,
+      "others": 1,
+      "kumrong": ""
+    },
+    {
+      "student_id": "6478901234",
+      "midterm_score": 28,
+      "final_score": 25,
+      "others": 2,
+      "kumrong": ""
+    }
+  ],
+  "Section": "740001",
+  "Semester": "1/2567",
+  "credit": 3,
+  "full_name": "การวางแผนและควบคุมการผลิต"
+},
+{
+  "_id": {
+    "$oid": "66e60030900d2cf9db2710e9"
+  },
+  "name": "CE353",
+  "teacher_id": 1,
+  "score_data": {
+    "midterm": 35,
+    "final": 55,
+    "others": 10
+  },
+  "grade_data": {
+    "A": 85,
+    "B_plus": 75,
+    "B": 70,
+    "C_plus": 65,
+    "C": 60,
+    "D_plus": 55,
+    "D": 50,
+    "F": 40
+  },
+  "students_score": [
+    {
+      "student_id": "6476543210",
+      "midterm_score": 4,
+      "final_score": 19,
+      "others": 7,
+      "kumrong": ""
+    },
+    {
+      "student_id": "6443210987",
+      "midterm_score": 17,
+      "final_score": 26,
+      "others": 4,
+      "kumrong": ""
+    }
+  ],
+  "Section": "750001",
+  "Semester": "1/2567",
+  "credit": 3,
+  "full_name": "วิศวกรรมฐานราก"
+},
+{
+  "_id": {
+    "$oid": "66e60083900d2cf9db2710ea"
+  },
+  "name": "EI401",
+  "teacher_id": 7,
+  "score_data": {
+    "midterm": 35,
+    "final": 55,
+    "others": 10
+  },
+  "grade_data": {
+    "A": 85,
+    "B_plus": 75,
+    "B": 70,
+    "C_plus": 65,
+    "C": 60,
+    "D_plus": 55,
+    "D": 50,
+    "F": 40
+  },
+  "students_score": [
+    {
+      "student_id": "6445678901",
+      "midterm_score": 3,
+      "final_score": 11,
+      "others": 7,
+      "kumrong": ""
+    }
+  ],
+  "Section": "740001",
+  "Semester": "1/2567",
+  "credit": 3,
+  "full_name": "โครงงานทางวิศวกรรมไฟฟ้า อุตสาหการ 1"
+},
+{
+  "_id": {
+    "$oid": "66e60103900d2cf9db2710eb"
+  },
+  "name": "CE361",
+  "teacher_id": 8,
+  "score_data": {
+    "midterm": 35,
+    "final": 55,
+    "others": 10
+  },
+  "grade_data": {
+    "A": 85,
+    "B_plus": 75,
+    "B": 70,
+    "C_plus": 65,
+    "C": 60,
+    "D_plus": 55,
+    "D": 50,
+    "F": 40
+  },
+  "students_score": [
+    {
+      "student_id": "6476543210",
+      "midterm_score": 13,
+      "final_score": 15,
+      "others": 2,
+      "kumrong": ""
+    },
+    {
+      "student_id": "6443210987",
+      "midterm_score": 14,
+      "final_score": 49,
+      "others": 8,
+      "kumrong": ""
+    }
+  ],
+  "Section": "750001",
+  "Semester": "1/2567",
+  "credit": 3,
+  "full_name": "วิศวกรรมการทาง"
+},
+{
+  "_id": {
+    "$oid": "66e60157900d2cf9db2710ec"
+  },
+  "name": "EI412",
+  "teacher_id": 7,
+  "score_data": {
+    "midterm": 35,
+    "final": 55,
+    "others": 10
+  },
+  "grade_data": {
+    "A": 85,
+    "B_plus": 75,
+    "B": 70,
+    "C_plus": 65,
+    "C": 60,
+    "D_plus": 55,
+    "D": 50,
+    "F": 40
+  },
+  "students_score": [
+    {
+      "student_id": "6445678901",
+      "midterm_score": 18,
+      "final_score": 26,
+      "others": 8,
+      "kumrong": ""
+    }
+  ],
+  "Section": "740001",
+  "Semester": "1/2567",
+  "credit": 3,
+  "full_name": "การเห็นภาพในเครื่องจักรอัตโนมัติและการประยุกต์ในอุตสาหกรรม"
+},
+{
+  "_id": {
+    "$oid": "66e601c8900d2cf9db2710ed"
+  },
+  "name": "CE372",
+  "teacher_id": 8,
+  "score_data": {
+    "midterm": 35,
+    "final": 55,
+    "others": 10
+  },
+  "grade_data": {
+    "A": 85,
+    "B_plus": 75,
+    "B": 70,
+    "C_plus": 65,
+    "C": 60,
+    "D_plus": 55,
+    "D": 50,
+    "F": 40
+  },
+  "students_score": [
+    {
+      "student_id": "6476543210",
+      "midterm_score": 20,
+      "final_score": 40,
+      "others": 5,
+      "kumrong": ""
+    },
+    {
+      "student_id": "6443210987",
+      "midterm_score": 13,
+      "final_score": 7,
+      "others": 9,
+      "kumrong": ""
+    }
+  ],
+  "Section": "750001",
+  "Semester": "1/2567",
+  "credit": 3,
+  "full_name": "วิศวกรรมชลศาสตร์"
+},
+{
+  "_id": {
+    "$oid": "66e6021a900d2cf9db2710ee"
+  },
+  "name": "IE433",
+  "teacher_id": 7,
+  "score_data": {
+    "midterm": 35,
+    "final": 55,
+    "others": 10
+  },
+  "grade_data": {
+    "A": 85,
+    "B_plus": 75,
+    "B": 70,
+    "C_plus": 65,
+    "C": 60,
+    "D_plus": 55,
+    "D": 50,
+    "F": 40
+  },
+  "students_score": [
+    {
+      "student_id": "6445678901",
+      "midterm_score": 26,
+      "final_score": 44,
+      "others": 10,
+      "kumrong": ""
+    }
+  ],
+  "Section": "740001",
+  "Semester": "1/2567",
+  "credit": 3,
+  "full_name": "การออกแบบสิ่งอำนวยความสะดวกและโรงงานอุตสาหกรรม"
+},
+{
+  "_id": {
+    "$oid": "66e602a2900d2cf9db2710ef"
+  },
+  "name": "CE381",
+  "teacher_id": 9,
+  "score_data": {
+    "midterm": 35,
+    "final": 55,
+    "others": 10
+  },
+  "grade_data": {
+    "A": 85,
+    "B_plus": 75,
+    "B": 70,
+    "C_plus": 65,
+    "C": 60,
+    "D_plus": 55,
+    "D": 50,
+    "F": 40
+  },
+  "students_score": [
+    {
+      "student_id": "6476543210",
+      "midterm_score": 26,
+      "final_score": 44,
+      "others": 9,
+      "kumrong": ""
+    },
+    {
+      "student_id": "6443210987",
+      "midterm_score": 9,
+      "final_score": 32,
+      "others": 0,
+      "kumrong": ""
+    }
+  ],
+  "Section": "750001",
+  "Semester": "1/2567",
+  "credit": 3,
+  "full_name": "วิศวกรรมการประปาและสุขาภิบาล"
+},
+{
+  "_id": {
+    "$oid": "66e602fd900d2cf9db2710f0"
+  },
+  "name": "CE491",
+  "teacher_id": 6,
+  "score_data": {
+    "midterm": 35,
+    "final": 55,
+    "others": 10
+  },
+  "grade_data": {
+    "A": 85,
+    "B_plus": 75,
+    "B": 70,
+    "C_plus": 65,
+    "C": 60,
+    "D_plus": 55,
+    "D": 50,
+    "F": 40
+  },
+  "students_score": [
+    {
+      "student_id": "6476543210",
+      "midterm_score": 8,
+      "final_score": 20,
+      "others": 4,
+      "kumrong": ""
+    }
+  ],
+  "Section": "750001",
+  "Semester": "1/2567",
+  "credit": 1,
+  "full_name": "สัมมนาทางวิศวกรรมโยธาและการบริหารการก่อสร้าง"
+},
+{
+  "_id": {
+    "$oid": "66e60330900d2cf9db2710f1"
+  },
+  "name": "CE492",
+  "teacher_id": 9,
+  "score_data": {
+    "midterm": 35,
+    "final": 55,
+    "others": 10
+  },
+  "grade_data": {
+    "A": 85,
+    "B_plus": 75,
+    "B": 70,
+    "C_plus": 65,
+    "C": 60,
+    "D_plus": 55,
+    "D": 50,
+    "F": 40
+  },
+  "students_score": [
+    {
+      "student_id": "6476543210",
+      "midterm_score": 3,
+      "final_score": 54,
+      "others": 3,
+      "kumrong": ""
+    }
+  ],
+  "Section": "750001",
+  "Semester": "1/2567",
+  "credit": 1,
+  "full_name": "โครงงานทางวิศวกรรมโยธาและการจัดการ 1"
+}]

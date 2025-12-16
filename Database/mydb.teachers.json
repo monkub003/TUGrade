@@ -1,0 +1,179 @@
+[{
+  "_id": {
+    "$oid": "66e65c168e2d70731f2710bc"
+  },
+  "teacher_id": 1,
+  "first_name": "ผู",
+  "last_name": "ชี้ฟม",
+  "office": "อาคารปฏิบัติการและวิจัย ชั้น 4 ห้อง 423-4",
+  "email": "phu.chifom@engr.tu.ac.th",
+  "tel": "0232827481",
+  "course": [
+    "MA111 (760001)",
+    "SF221",
+    "CN210",
+    "CN230",
+    "SF330",
+    "SF331",
+    "CE353"
+  ],
+  "note": "ติดต่อได้ในเวลาราชการ"
+},
+{
+  "_id": {
+    "$oid": "66e65d728e2d70731f2710bd"
+  },
+  "teacher_id": 2,
+  "first_name": "บิง",
+  "last_name": "ฉีชิ่ง",
+  "office": "อาคารปฏิบัติการและวิจัย ชั้น 2 ห้อง 213-2",
+  "email": "bing.chiling@engr.tu.ac.th",
+  "tel": "0579183121",
+  "course": [
+    "MA111 (750001)",
+    "IE121",
+    "SC123 (750001)",
+    "SC173 (740001)",
+    "SC133 (740001)",
+    "EI201",
+    "CN204"
+  ],
+  "note": "-"
+},
+{
+  "_id": {
+    "$oid": "66e65e118e2d70731f2710be"
+  },
+  "teacher_id": 3,
+  "first_name": "จ๋ง",
+  "last_name": "ซิ่น๋า",
+  "office": "อาคารปฏิบัติการและวิจัย ชั้น 3 ห้อง 313",
+  "email": "jong.china@engr.tu.ac.th",
+  "tel": "0469737760",
+  "course": [
+    "MA111 (740001)",
+    "SC123 (740001)",
+    "SC173 (750001)",
+    "SC133 (750001)",
+    "ME100",
+    "MA214"
+  ],
+  "note": "ติดต่อทางไลน์เมื่อมีเรื่ิองด่วน"
+},
+{
+  "_id": {
+    "$oid": "66e65f06a6cf3cd4eb2710bc"
+  },
+  "teacher_id": 4,
+  "first_name": "อี้หลง",
+  "last_name": "มัก",
+  "office": "อาคารปฏิบัติการและวิจัย ชั้น 4 ห้อง 424-1",
+  "email": "elong.muk@engr.tu.ac.th",
+  "tel": "0295107935",
+  "course": [
+    "SC135",
+    "CN101",
+    "SF341",
+    "SF410",
+    "CE212",
+    "SF211"
+  ],
+  "note": "ติดต่อได้ทางอีเมล"
+},
+{
+  "_id": {
+    "$oid": "66e65fafa6cf3cd4eb2710bd"
+  },
+  "teacher_id": 5,
+  "first_name": "อ๊อด",
+  "last_name": "อ๊อด",
+  "office": "อาคารปฏิบัติการและวิจัย ชั้น 4 ห้อง 424-2",
+  "email": "ood.ood@engr.tu.ac.th",
+  "tel": "0365773639",
+  "course": [
+    "EI211",
+    "LE363",
+    "LE340",
+    "LE380",
+    "CE221",
+    "CE231"
+  ],
+  "note": "-"
+},
+{
+  "_id": {
+    "$oid": "66e66041a6cf3cd4eb2710be"
+  },
+  "teacher_id": 6,
+  "first_name": "เฉิน",
+  "last_name": "หลง",
+  "office": "อาคารปฏิบัติการและวิจัย ชั้น 4 ห้อง 424-3",
+  "email": "chen.long@engr.tu.ac.th",
+  "tel": "0711238474",
+  "course": [
+    "CE211",
+    "SF212",
+    "CE232",
+    "CE491",
+    "IE312"
+  ],
+  "note": "ติดต่อเวลา 9:00 - 16:00 จ.- ศ."
+},
+{
+  "_id": {
+    "$oid": "66e660bba6cf3cd4eb2710bf"
+  },
+  "teacher_id": 7,
+  "first_name": "ฉู่",
+  "last_name": "ฉี่",
+  "office": "อาคารปฏิบัติการและวิจัย ชั้น 2 ห้อง 224-1",
+  "email": "chu.chi@engr.tu.ac.th",
+  "tel": "0168726342",
+  "course": [
+    "IE302",
+    "EI401",
+    "SF404",
+    "EI412",
+    "IE433"
+  ],
+  "note": "-"
+},
+{
+  "_id": {
+    "$oid": "66e6612da6cf3cd4eb2710c0"
+  },
+  "teacher_id": 8,
+  "first_name": "ฉู่",
+  "last_name": "ฉ่า",
+  "office": "อาคารปฏิบัติการและวิจัย ชั้น 2 ห้อง 224-2",
+  "email": "chu.cha@engr.tu.ac.th",
+  "tel": "0656039706",
+  "course": [
+    "CE371",
+    "CE361",
+    "EI240",
+    "IE261",
+    "CE372",
+    "LE360"
+  ],
+  "note": "-"
+},
+{
+  "_id": {
+    "$oid": "66e661b0a6cf3cd4eb2710c1"
+  },
+  "teacher_id": 9,
+  "first_name": "ไฮ้",
+  "last_name": "หยา",
+  "office": "อาคารปฏิบัติการและวิจัย ชั้น 2 ห้อง 224-3",
+  "email": "hi.yha@engr.tu.ac.th",
+  "tel": "0567533490",
+  "course": [
+    "CE381",
+    "CE492",
+    "CE321",
+    "CE331",
+    "SF406"
+  ],
+  "note": "ห้ามติดต่อนอกเวลาราชการ"
+}]

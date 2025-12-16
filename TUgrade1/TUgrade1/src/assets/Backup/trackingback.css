@@ -1,0 +1,106 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "title";
+    scroll-behavior: smooth;
+    scroll-padding-top: 1rem;
+}
+
+body {
+    display:flexbox;
+    justify-content: center;
+    min-height: 350vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background: linear-gradient(180deg, rgba(245, 245, 245, 1) 0%, rgba(251, 243, 243, 1) 50%);
+    align-items: center;
+
+}
+
+
+header{
+    position: sticky;
+    top: 0;
+    padding: 1.5rem 0; 
+    width: 100%;
+    margin:0px 0;
+    background-color: #F5F5F5;
+    box-shadow: 3px 0 10px #adadad;
+}
+
+
+.Tugrade-Logo {
+    margin: 1px 20px;
+    padding: 20px 50px;
+    background-image: url("..//assets/images/TUGrade_logo.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.line-head{
+    padding: 10px 20px;
+    border-left: 2px solid #A43531;
+    font-size: 100px;
+    color: #A43531;
+}
+.Menu{
+    position: absolute;
+    right: 10px;
+    padding: 0 10px;
+    color: black
+}
+.Menu li{
+    display: inline;
+    /* margin-right: 30px; */
+    cursor: pointer;
+}
+p, .Tugrade-Logo,.line-head ,.Menu{
+    display: inline;
+    font-size: 20px;
+}
+
+.Tracking-head {
+    margin: 30px;
+    text-align: center;
+}
+.Tracking-box{
+    width: 80%;
+    margin-left: 10%;
+    padding: 30px;
+    background-color: #F0E2E2;
+    border-radius: 20px;
+}
+.Tracking-box .Course-code-name p, .Tracking-box .Professor p, .Tracking-box .Date p,.Tracking-box .Status p{
+    font-size: 18px;
+}
+.Tracking-box .Status, .Tracking-box .Course-code-name , .Tracking-box .Professor ,.Tracking-box .Date{
+    margin-top: 10px;
+}
+.Tracking-box .Status{  
+    display: inline-flex;
+}
+.Tracking-box p{
+    margin-left: 20px;
+}
+
+.Tracking-box .Status .bxs-circle {
+    margin-top: 0px;
+    color: #5ADC0F;
+    font-size: 25px;
+    padding-top: 3px;
+    
+}
+.Tracking-box .Status .bxs-circle i{
+    font-size: 20px;
+}
+.Attachments-file{
+    padding: 7px;
+    width: 130px;
+    background-color: #F8B93E;
+    border-radius: 70px;
+    cursor: pointer;
+    box-shadow: 4px 4px 2px #adadad;
+    text-align: center;
+    margin-left: 20px;
+}

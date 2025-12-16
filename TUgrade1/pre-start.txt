@@ -1,0 +1,4 @@
+1.run sudo mongod --dbpath= (your db path) in terminal --> Database
+2.check mongo shell that the server in connected
+3.run npm run dev in Vue project terminal --> Front-end
+4.run node server.cjs or .js in another terminal --> connect Database to project

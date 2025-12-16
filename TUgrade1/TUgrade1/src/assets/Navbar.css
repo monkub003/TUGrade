@@ -1,0 +1,180 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Thai:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Funnel+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Funnel Sans', 'Noto Sans Thai', sans-serif;
+    scroll-behavior: smooth;
+    scroll-padding-top: 1rem;
+}
+
+body {
+    display: flexbox;
+    justify-content: center;
+    min-height: 350vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background: linear-gradient(180deg, rgba(245, 245, 245, 1) 0%, rgba(251, 243, 243, 1) 50%);
+    align-items: center;
+
+}
+
+header{
+    position: sticky;
+    top: 0;
+    /* padding: 0rem 0;  */
+    width: 100%;
+    margin:0px 0;
+    background-color: #F5F5F5;
+    box-shadow: 3px 0 10px #adadad;
+    z-index: 10;
+}
+
+.Tugrade-Logo {
+    /* width: 100px;
+    height: 10px; */
+    margin: 1px 20px;
+    padding: 10px 48px;
+    background-image: url("..//assets/images/TUGrade_logo.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    /* border: 1px solid black; */
+}
+
+.line-head{
+    padding: 10px 20px;
+    border-left: 2px solid #A43531;
+    font-size: 100px;
+    color: #A43531;
+    cursor: pointer;
+    z-index: 15;
+    text-decoration: none;
+}
+
+.line-head a{
+    text-decoration: none;
+    color: #A43531;
+}
+
+.Menubar {
+    /* display: flex; */
+    /* justify-content: space-between; */
+    align-items: center;
+    background-color: #F5F5F5;
+    z-index: 10;
+    /* padding:0 0; */
+}
+
+.Menubar .Menu{
+    position: absolute;
+    width: 100%;
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    right: 10px;
+    z-index: 10;
+    /* padding: 0 20px; */
+    /* color: black */
+}
+
+.Menubar li{
+    height: 63px;
+    display: inline;
+    /* margin-right: 30px; */
+    cursor: pointer;
+}
+
+.Menubar .Menu a{
+    display: flex;
+    height: 100%;
+    padding: 0 30px;
+    text-decoration: none;
+    align-items: center;
+    color: #000000;
+    transition: 0.2s;
+}
+
+.Menubar .Menu a:hover{
+    width: 100%;
+    background-color: #F8B93E;
+    color: white;
+}
+
+.Sidebar{
+    position: fixed;
+    font-size: 20px;
+    top: 0;
+    right: 0;
+    height: 100vh;
+    width: 250px;
+    z-index: 999;
+    background-color: white;
+    box-shadow: -10px 0 10px rgba(0, 0, 0, 0.1);
+    display: none;
+    flex-direction: column;
+    align-items:  center;
+    justify-content: flex-start;
+    /* padding: 0 30px; */
+}
+
+.Sidebar a{
+    display: flex;
+    height: 100%;
+    width: 100%;
+    padding:0 1rem;
+    /* padding-left: 5px; */
+    text-decoration: none;
+    color: #000000;
+    transition: 0.2s;
+    align-items: center;
+    text-align: center;
+    /* justify-items: center; */
+}
+
+
+.Sidebar a:hover{
+    width: 150%;
+    background-color: #F8B93E;
+    color: white;
+}
+
+.Sidebar li{
+    width: 100%;
+    /* height: 50px; */
+    align-items: center;
+    /* justify-items: center; */
+    box-sizing: border-box;
+}
+
+.Hamburger-btn {
+    display: none !important;
+    z-index: 11;
+  }
+
+p, .Tugrade-Logo,.line-head ,.Menu{
+    display: inline;
+    align-items: left;
+    text-align: left;
+    justify-content: inline-block;
+    font-size: 20px;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    /* justify-content: space-between; */
+    padding: 10px 20px;
+}
+
+@media (max-width: 1000px) {
+    .Hamburger-btn {
+      display: flex !important;
+    }
+    .Menu li:nth-child(1), .Menu li:nth-child(2), .Menu li:nth-child(3), .Menu li:nth-child(4){
+        display: none;
+    }
+}

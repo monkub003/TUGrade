@@ -1,0 +1,160 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Thai:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Funnel+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Funnel Sans', 'Noto Sans Thai', sans-serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    /* text-align: center; */
+    min-height: 100vh;
+    background: linear-gradient(180deg, rgba(218, 128, 128, 1) 0%,rgba(236, 186, 80, 1) 17%,rgba(255, 255, 255, 1) 80%) ;
+}
+
+.wrapper-login {
+    height: 600px;
+    width: 100%;
+    display: flex;
+    color: #adadad;
+    justify-content: center;
+    position: relative;
+    
+}
+.wrapper-login .Tugrade-Logo{
+    position: relative;
+    display: flex;
+    width: 320px;
+    height: 100px;
+    margin: 40px auto;
+    background-image: url("../assets/images/TUGrade_logo.png");
+    background-size: cover;
+    filter: drop-shadow(3px 3px 3px #484242);
+}
+.wrapper-login h1{
+    font-size: 30px;
+    text-align: center;
+    background-size: 100%;
+    font-weight: 800;
+    margin-bottom: 10px;
+    color: #A22D2D;
+    text-shadow: 2px 2px 4px#a49191;
+}
+.wrapper-login h2{
+    font-size: 24px;
+    text-align: center;
+    background: linear-gradient(90deg, #ed6363, #873838);
+    background-size: 100%;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 800;
+    margin-bottom: 30px;
+}
+
+
+.wrapper-login .input_form {
+    position: relative;
+    width: 400px;
+    height: 10%;
+    margin: 20px auto;
+    border: 3px solid #adadad;
+    border-radius: 50px;
+}
+
+.wrapper-login .input_form input{
+    width: 75%;
+    height: 100%;
+    margin: auto;
+    background: transparent;
+    border: none;
+    outline: none;
+    text-align: left;
+    font-size: 16px;
+    font-weight: 600;
+    
+}
+
+
+.wrapper-login .input_form input::placeholder{
+    color: #adadad;
+}
+
+.wrapper-login .input_form:hover{
+    border: 3px solid black;
+    box-shadow: 4px 4px 4px #adadad;
+}
+
+.wrapper-login .input_form i {
+    width: 10%;
+    height: 40%;
+    background: transparent;
+    border: none;
+    outline: none;
+    font-size: 16px;
+    font-weight: 600;
+    margin: 5% 0 5% 10px;
+    text-align: center;
+}
+
+.wrapper-login .login-btn {
+    display: flex;
+    position: relative;
+    width: 200px;
+    height: 60px;
+    margin: 40px auto;
+    background: #ed6363;
+    border: none;
+    outline: none;
+    border-radius: 40px;
+    box-shadow: 0 0 10px 4px rgba(255, 255, 255, 0.2);
+    cursor: pointer;
+    font-size: 24px;
+    color: #fff;
+    font-weight: 700;
+    box-shadow: 4px 4px 4px #adadad;
+    align-items: center;
+    padding-left: 50px;
+}
+.wrapper-login p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 16px;
+    width: 100%;
+    margin: 0; /* Remove any margin if you had issues with spacing */
+    position: relative;
+}
+.wrapper-login .thammasat-logo{
+    width: 100%;
+    height: 40px;
+    
+    position: absolute;
+}
+
+.wrapper-login .TU-Background {
+    position: relative;
+    display: flex;
+    width: 250vh;
+    height: 160px;
+    margin: 130px auto;
+    background-size: cover;
+    background-image: url("../assets/images/thammasat_logo.png");
+}
+
+@media only screen and (max-width: 768px) {
+    .wrapper-login {
+        width: 80%;
+        font-size: 80%;
+    }
+
+    .body {
+        min-height: 80%;
+    }
+}

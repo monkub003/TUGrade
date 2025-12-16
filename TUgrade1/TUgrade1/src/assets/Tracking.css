@@ -1,0 +1,86 @@
+@import url(./Navbar.css);
+
+.course-item{
+    padding-bottom: 20px;
+}
+.Tracking-head {
+    margin: 30px;
+    text-align: center;
+    color: #A43531;
+}
+.Tracking-box{
+    width: 80%;
+    margin-left: 10%;
+    padding: 30px;
+    background-color: #F0E2E2;
+    border-radius: 20px;
+}
+.Tracking-box .Course-code-name p, .Tracking-box .Professor p, .Tracking-box .Date p,.Tracking-box .Status p{
+    font-size: 18px;
+}
+.Tracking-box .Status, .Tracking-box .Course-code-name , .Tracking-box .Professor ,.Tracking-box .Date{
+    margin-top: 10px;
+}
+.Tracking-box .Status{  
+    display: inline-flex;
+}
+.Tracking-box p{
+    margin-left: 20px;
+}
+
+.Tracking-box .Status .bxs-circle {
+    margin-top: 0px;
+    /* color: #5ADC0F; */
+    font-size: 25px;
+    padding-top: 3px;
+    
+}
+.Tracking-box .Status .bxs-circle i{
+    font-size: 20px;
+}
+.Attachments-file{
+    padding: 7px;
+    margin-top: -5px;
+    /* margin-bottom: ; */
+    width: 130px;
+    background-color: #F8B93E;
+    border-radius: 70px;
+    cursor: pointer;
+    box-shadow: 4px 4px 2px #adadad;
+    text-align: center;
+    margin-left: 20px;
+    color:white;
+    border: 2px solid transparent;
+}
+
+.Attachments-file:hover{
+    color:#000000;
+    background-color: #ffffff;
+    border-color:#F8B93E;
+}
+
+.Attachments-link {
+    text-decoration: none;
+    color:white;
+}
+
+.Attachments-link:hover {
+    text-decoration: none;
+    color:rgb(0, 0, 0);
+}
+
+.Status-info {
+    margin-left: 10rem;
+    text-align: left;
+}
+
+.Status-info .i{
+    margin-left: 10rem;
+    /* text-align: center; */
+    /* align-items: center; */
+}
+
+.Not-found-text {
+    margin: 30px;
+    text-align: center;
+}

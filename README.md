@@ -55,10 +55,10 @@ TUGrade/
 │       ├── public/
 │       └── src/
 │           ├── TestDB/
-│           ├── assets/
+│           └── assets/
 │               ├── Backup/
 │               └── images/
-│           ├── components/
+│           └── components/
 │               ├── Backup/
 │               └── icons/
 │           └── router/

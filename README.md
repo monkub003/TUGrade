@@ -49,11 +49,19 @@ TUGrade is built as a modern full-stack web application using **Vue.js**, **Expr
 ```
 TUGrade/
 │
-├── frontend/        # Vue.js frontend
-├── backend/         # Express.js backend
-│   ├── routes/
-│   ├── controllers/
-│   └── models/
+├── Database/        # Vue.js frontend
+├── TUGrade1/         # Express.js backend
+│   └── TUGrade1/
+│       ├── public/
+│       └── src/
+│           ├── TestDB/
+│           ├── assets/
+│               ├── Backup/
+│               └── images/
+│           ├── components/
+│               ├── Backup/
+│               └── icons/
+│           └── router/
 ├── README.md
 ```
 
